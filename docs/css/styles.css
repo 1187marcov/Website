@@ -1,6 +1,6 @@
 body {
     font-size: 12px;
-    font-family: "Microsoft YaHei"
+    font-family: "Microsoft YaHei", serif
 }
 h1{
     font-size:200%;
@@ -22,4 +22,7 @@ h6{
 }
 #header h1{
     color:blue;
+}
+#header li{
+    display:inline;
 }
